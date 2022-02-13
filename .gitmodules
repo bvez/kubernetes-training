@@ -1,0 +1,3 @@
+[submodule "peladonerd"]
+	path = peladonerd
+	url = git@github.com:pablokbs/peladonerd.git
